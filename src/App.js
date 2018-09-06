@@ -59,7 +59,7 @@ class App extends Component {
 				onClick={this.getSpotOnCanvas}
 				style={{
 					position: 'absolute',
-					height: 5000,
+					height: 1000,
 					width: 1000,
 					border: '1px solid gray'
 				}}
